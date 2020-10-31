@@ -38,4 +38,4 @@ El objetivo es desarrollar una herramienta de generación automática de reporte
 - [Instalar python](https://www.python.org/downloads/)
 - Instalar un entorno de desarrollo o IDE: [Pycharm community](www.jetbrains.com/pycharm/download)
 - Si no se lo ha hecho antes, realizar un tutorial básico general de python para entender bucles, condicionales, listas, diccionarios 
-- Introducción a la programación con un [ejercicio retador](www.github/yuyanalab/ALICIA/python/tutorial1)
+- Introducción a la programación con un [ejercicio retador](https://github.com/yuyanalab/ALICIA/tree/main/python/tutorial1)
