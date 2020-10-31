@@ -5,7 +5,8 @@ Establecer una hoja de ruta de aprendizaje para el desarrollo del proyecto
 
 ##  PROYECTOS DE APRENDIZAJE
 ### Tecnología habilitante
-- Programación
+[Admin Panels](#admin-panels)
+- [Programación](#programacion)
 - Software open source y servidores
 ### Estadística
 - Validación de encuestas
@@ -30,4 +31,12 @@ Establecer una hoja de ruta de aprendizaje para el desarrollo del proyecto
 - Resolver problemas de una empresa a través de la investigación de literatura científica, aplicación de procesos de aprendizaje empresarial y desarrollo de productos
 - Action learning
 - Action research
+
+# programacion
+pRUEBA
+---
+
+## Admin Panels
+
+*Libraries for administrative interfaces.*
 
