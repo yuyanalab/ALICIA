@@ -32,7 +32,4 @@ Establecer una hoja de ruta de aprendizaje para el desarrollo del proyecto
 - Action research
 
 # PROGRAMACIÓN
-pRUEBA
----
-k
 
