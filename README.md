@@ -1,7 +1,5 @@
 # ALICIA
-Proyecto de aprendizaje-acción
-## OBJETIVO GENERAL
-Desarrollar un producto de orientación vocacional a través de proyectos de aprendizaje-acción
+Proyecto de aprendizaje-acción para desarrollar un producto de orientación vocacional a través de proyectos de aprendizaje-acción
 ## OBJETIVO DE ESTE SITIO
 Establecer una hoja de ruta de aprendizaje para el desarrollo del proyecto
 
