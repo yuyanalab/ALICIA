@@ -26,8 +26,8 @@ Establecer una hoja de ruta de aprendizaje para el desarrollo del proyecto
 - Desarrollo de emprendimientos/proyectos cooperativos (Fairshare)
 ### Equipos
 - Cómo integrar a personas al equipo desde sus fortalezas (basado en personalidad)
-### Investigación-aprendizaje y desarrollo
+### I+D+i+A Investigación desarrollo innovación y aprendizaje
 - Resolver problemas de una empresa a través de la investigación de literatura científica, aplicación de procesos de aprendizaje empresarial y desarrollo de productos
-### Aprendizaje
 - Action learning
+- Action research
 
