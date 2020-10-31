@@ -5,31 +5,31 @@ Desarrollar un producto de orientación vocacional a través de proyectos de apr
 ## OBJETIVO DE ESTE SITIO
 Establecer una hoja de ruta de aprendizaje para el desarrollo del proyecto
 
-#  PROYECTOS DE APRENDIZAJE
-Tecnología habilitante
-	• Programación
-	• Software open source y servidores
-Estadística
+##  PROYECTOS DE APRENDIZAJE
+### Tecnología habilitante
+- Programación
+- Software open source y servidores
+### Estadística
 	• Validación de encuestas
-Dominio del proyecto
+### Dominio del proyecto
 	• Modelos de orientación vocacional
 	• Tests
 	• Bases de datos y herramientas disponibles
-Diseño
+### Diseño
 	• Diseño de producto basado en historias de usuario
 	• Diseño de UX
 	• Diseño de prototipos funcionales y no funcionales
 	• Desarrollo de MVP (Minimum Viabe Product)
 	• Design thinking
-Desarrollo de mercado
+### Desarrollo de mercado
 	• Investigación cualitativa de mercado
 	• Validación de ideas y productos
-Empresa
+### Empresa
 	• Desarrollo de emprendimientos/proyectos cooperativos (Fairshare)
-Equipos
+### Equipos
 	• Cómo integrar a personas al equipo desde sus fortalezas (basado en personalidad)
-Investigación-aprendizaje y desarrollo
+### Investigación-aprendizaje y desarrollo
 	• Resolver problemas de una empresa a través de la investigación de literatura científica, aplicación de procesos de aprendizaje empresarial y desarrollo de productos
-Aprendizaje
+### Aprendizaje
 	• Action learning
 
