@@ -14,7 +14,7 @@ Establecer una hoja de ruta de aprendizaje para el desarrollo del proyecto
 - Tests
 - Bases de datos y herramientas disponibles
 ### Diseño
-- Diseño de producto basado en historias de usuario
+- Diseño de producto basado en historias de usuario.
 - Diseño de UX
 - Diseño de prototipos funcionales y no funcionales
 - Desarrollo de MVP (Minimum Viabe Product)
