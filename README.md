@@ -5,7 +5,7 @@ Establecer una hoja de ruta de aprendizaje para el desarrollo del proyecto
 
 ##  PROYECTOS DE APRENDIZAJE
 ### Tecnología habilitante
-- [Programación](#programacion)
+- [Programación](#programación)
 - Software open source y servidores
 ### Estadística
 - Validación de encuestas
