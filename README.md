@@ -1,11 +1,11 @@
 # ALICIA
-Proyecto de aprendizaje-acción para desarrollar un producto de orientación vocacional a través de proyectos de aprendizaje-acción
+Proyecto  para desarrollar un producto de orientación vocacional a través de proyectos de aprendizaje-acción
 ## OBJETIVO DE ESTE SITIO
 Establecer una hoja de ruta de aprendizaje para el desarrollo del proyecto
 
 ##  PROYECTOS DE APRENDIZAJE
 ### Tecnología habilitante
-- [Programación](#programación)
+- [Programación](#programacion)
 - Software open source y servidores
 ### Estadística
 - Validación de encuestas
@@ -31,5 +31,11 @@ Establecer una hoja de ruta de aprendizaje para el desarrollo del proyecto
 - Action learning
 - Action research
 
-# PROGRAMACIÓN
+# Programación
+El objetivo es desarrollar una herramienta de generación automática de reportes
 
+## Fase 1. Programación básica
+- [Instalar python](https://www.python.org/downloads/)
+- Instalar un entorno de desarrollo o IDE: [Pycharm community](www.jetbrains.com/pycharm/download)
+- Si no se lo ha hecho antes, realizar un tutorial básico general de python para entender bucles, condicionales, listas, diccionarios 
+- Introducción a la programación con un [ejercicio retador](www.github/yuyanalab/ALICIA/python/tutorial1)
