@@ -77,13 +77,15 @@ Como usuario quiero que el sistema me muestre la factura de un cliente, con el p
 - Revisar capítulo 2 del libro Refactoring, secciones: Defining refactoring, The two hats, Why should we refactor
 - Revisar el video de Robert Martin sobre código limpio:
 https://www.youtube.com/watch?v=7EmboKQH8lM
+
 Secciones:
-12:21     The current Society works with Software
-19:47     Volkswagen case / Introduction to the Ethics of Software Development
-24:28     Why are Programmers so slow?
-32:13     What is a Clean Code?
-40:09     Analyzing some lines of code
-43:43     Long code is not Good Code
-49:25     Good Code / Refactored Function
-52:40     Polite Code / Rules for writing a news paper article
-55:25     Shrunk Code / The Rules of Functions
+
+- 12:21     The current Society works with Software
+- 19:47     Volkswagen case / Introduction to the Ethics of Software Development
+- 24:28     Why are Programmers so slow?
+- 32:13     What is a Clean Code?
+- 40:09     Analyzing some lines of code
+- 43:43     Long code is not Good Code
+- 49:25     Good Code / Refactored Function
+- 52:40     Polite Code / Rules for writing a news paper article
+- 55:25     Shrunk Code / The Rules of Functions
