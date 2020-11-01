@@ -16,12 +16,9 @@
     - $ 30.000 + 300 por cada asistente 
     - Si la audiencia supera las 20 personas, se cobra un fee de $10.000 + 500 por cada persona adicional
 
-Los puntos de lealtad se otorgan por cada obra contratada, sobre la base de la cantidad de púbico de la siguiente forma:
-- Un punto de lealtad por cada asistente, siempre y cuando hayan 30 o más asistentes.
+Los puntos de lealtad se otorgan por cada obra contratada, sobre la base de la cantidad de asistentes:
+- Un punto de lealtad por cada asistente, siempre y cuando hayan 30 o más
 - Las comedias generan un punto adicional por cada 10 asistentes
-
-- El sistema debe proveer una factura por las obras contratadas, y además otorgar "puntos de descuento" para próximas obras como mecanismo para asegurar la  lealtad de los clientes 
-
 
 ### Historia de usuario
 Como usuario quiero que el sistema me muestre la factura de un cliente, con el precio desglosado de cada obra y al final el monto total y los puntos otorgados. 
@@ -32,7 +29,7 @@ Como usuario quiero que el sistema me muestre la factura de un cliente, con el p
 {
   "hamlet": {"nombre": "Hamlet", "tipo": "tragedia"},
   "lear": {"nombre": "El Rey Lear", "tipo": "comedia"},
-  "othello": {"nombre": "Otelo", "type": "tragedia"}
+  "otelo": {"nombre": "Otelo", "type": "tragedia"}
 }
 - Los datos de las ventas vienen en una lista anidada de diccionarios como la siguiente:
 [
