@@ -10,15 +10,15 @@
 
 ### Las obras se cobran de la siguiente forma
   - Tragedias
-    - $ 40.000
-    - Si la audiencia supera las 30 personas, se cobra 1.000 por cada persona adicional
+    - $ 400
+    - Si la audiencia supera las 30 personas, se cobra $ 10 por cada persona adicional
   - Comedias
-    - $ 30.000 + 300 por cada asistente 
-    - Si la audiencia supera las 20 personas, se cobra un fee de $10.000 + 500 por cada persona adicional
+    - $ 300 + $ 3 por cada asistente 
+    - Si la audiencia supera las 20 personas, se cobra un fee de $ 100 + $ 5 por cada persona adicional
 
 Los puntos de lealtad se otorgan por cada obra contratada, sobre la base de la cantidad de asistentes:
 - Un punto de lealtad por cada asistente, siempre y cuando hayan 30 o más
-- Las comedias generan un punto adicional por cada 10 asistentes
+- Las comedias generan un punto adicional por cada 5 asistentes
 
 ### Historia de usuario
 Como usuario quiero que el sistema me muestre la factura de un cliente, con el precio desglosado de cada obra y al final el monto total y los puntos otorgados. 
