@@ -26,12 +26,15 @@ Como usuario quiero que el sistema me muestre la factura de un cliente, con el p
 ### Consejos
 - No calcular el IVA y no realizar ningún tipo de interfaz de usuario ni conexión a base de datos
 - Los datos de las obras vienen en un diccionario como el siguiente:
+```
   {
     "hamlet": {"nombre": "Hamlet", "tipo": "tragedia"},
     "lear": {"nombre": "El Rey Lear", "tipo": "comedia"},
     "otelo": {"nombre": "Otelo", "type": "tragedia"}
   }
+```
 - Los datos de las ventas vienen en una lista anidada de diccionarios como la siguiente:
+```
 [
   {"cliente": "La Favorita",
     "espectaculos": [
@@ -62,7 +65,7 @@ Como usuario quiero que el sistema me muestre la factura de un cliente, con el p
     ]
   }
 ]
-
+```
 ## Pasos
 - Intentar programar el script en Python
 - Anotar los conceptos sobre los que no se tiene dominio
