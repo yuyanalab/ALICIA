@@ -74,9 +74,10 @@ Como usuario quiero que el sistema me muestre la factura de un cliente, con el p
 ## Reflexionar
 - Una vez terminado el programa, ¿se lo puede mejorar?
 - ¿Qué es refactoring?
-- Revisar capítulo 2 del libro Refactoring: Defining refactoring, The two hats, Why should we refactor
+- Revisar capítulo 2 del libro Refactoring, secciones: Defining refactoring, The two hats, Why should we refactor
 - Revisar el video de Robert Martin sobre código limpio:
 https://www.youtube.com/watch?v=7EmboKQH8lM
+Secciones:
 12:21     The current Society works with Software
 19:47     Volkswagen case / Introduction to the Ethics of Software Development
 24:28     Why are Programmers so slow?
